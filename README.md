@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-<br> I'm Clarisse Scofield, Computer Scientist :computer:<br>
+<br> I'm Clarisse Scofield, Computer Scientist <br>
 
 <a href="https://www.linkedin.com/in/clarisse-scofield/">
   <img align="left" alt="Clarisse's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
