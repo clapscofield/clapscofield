@@ -1,35 +1,7 @@
 ## Hello World! I'm Clarisse Scofield <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-<br>
-<a href="https://www.linkedin.com/in/clarisse-scofield/">
-  <img align="left" alt="Clarisse's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/clapscofield">
-  <img align="left" alt="Clarisse's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=5531994537177">
-  <img align="left" alt="Clarisse's Whatsapp" width="22px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" />
-</a>
-
-<a href="https://www.kaggle.com/clarissescofield">
-  <img align="left" alt="Clarisse's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-
-<a href="https://www.hackerrank.com/clarissescofield">
-  <img align="left" alt="Clarisse's HackerRank" width="22px" src="https://w7.pngwing.com/pngs/848/342/png-transparent-hackerrank-logo-logos-logos-and-brands-icon-thumbnail.png" />
-</a>
-
-<a href="mailto:clarisse.scofield@gmail.com">
-  <img align="left" alt="Clarisse's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/60/60543.png" />
-</a>
-
-<br>
 
 <img align="center" alt="GIF" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112eb4dc23f53f0f20a7f158136519e4156703f24f&rid=giphy.gif&ct=g" />
-
-<br>
 
 ## About me
 - :computer: I'm currently finishing my Computer Science degree
@@ -66,3 +38,32 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+## Contact
+
+<br>
+<a href="https://www.linkedin.com/in/clarisse-scofield/">
+  <img align="left" alt="Clarisse's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/clapscofield">
+  <img align="left" alt="Clarisse's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5531994537177">
+  <img align="left" alt="Clarisse's Whatsapp" width="22px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp.png" />
+</a>
+
+<a href="https://www.kaggle.com/clarissescofield">
+  <img align="left" alt="Clarisse's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+
+<a href="https://www.hackerrank.com/clarissescofield">
+  <img align="left" alt="Clarisse's HackerRank" width="22px" src="https://w7.pngwing.com/pngs/848/342/png-transparent-hackerrank-logo-logos-logos-and-brands-icon-thumbnail.png" />
+</a>
+
+<a href="mailto:clarisse.scofield@gmail.com">
+  <img align="left" alt="Clarisse's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/60/60543.png" />
+</a>
+
+<br>
