@@ -25,7 +25,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112eb4dc23f53f0f20a7f158136519e4156703f24f&rid=giphy.gif&ct=g" />
 
 ## About me
 - :computer: I'm currently finishing my Computer Science degree
