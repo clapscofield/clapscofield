@@ -1,5 +1,6 @@
 ## Hello World! I'm Clarisse Scofield <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
+<br>
 <a href="https://www.linkedin.com/in/clarisse-scofield/">
   <img align="left" alt="Clarisse's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -24,8 +25,11 @@
   <img align="left" alt="Clarisse's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/60/60543.png" />
 </a>
 
-<br />
+<br>
+
 <img align="center" alt="GIF" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112eb4dc23f53f0f20a7f158136519e4156703f24f&rid=giphy.gif&ct=g" />
+
+<br>
 
 ## About me
 - :computer: I'm currently finishing my Computer Science degree
