@@ -2,17 +2,6 @@
 
 <br> I'm Clarisse Scofield, Computer Scientist :computer:<br>
 
-## About me
-- :computer: I'm currently finishing my Computer Science degree
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Always studying new things and trying code challenges
-- 👩‍💻 Software Engineer
-- :dart: Life Hack: "Heroism at work is to be found in finishing each task." 
-- :trophy: Grand Finalist of Research Project at UFMG in 2016
-- :black_nib: Fun fact: I love literature and I am also a book writer <br>
-
-
-## Feel free to get in touch
 <a href="https://www.linkedin.com/in/clarisse-scofield/">
   <img align="left" alt="Clarisse's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -39,12 +28,14 @@
 
 <br />
 
-### I am Clarisse, from Brazil :brazil:
-  
-- Computer Science Student @ Universidade Federal de Minas Gerais 
-- Software Engineer
-- Passionate about data and data science 
-- Full stack experience with agile methodology
+## About me
+- :computer: I'm currently finishing my Computer Science degree
+- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
+- :rocket: Always studying new things and trying code challenges
+- 👩‍💻 Full stack experience with agile methodology
+- :dart: Life Hack: "Heroism at work is to be found in finishing each task." 
+- :trophy: Grand Finalist of Research Project at UFMG in 2016
+- :black_nib: Fun fact: I love literature and I am also a book writer <br>
 
 ## Technologies
 
